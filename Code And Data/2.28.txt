@@ -1,0 +1,7 @@
+dict for only training set
+70% training 10% validate 20% test
+
+
+some other algorithms to compare
+
+train without preprocessing
